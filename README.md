@@ -1,2 +1,2 @@
-# CS_project
+# CS Game_project
 cs zombie game naruto edition
